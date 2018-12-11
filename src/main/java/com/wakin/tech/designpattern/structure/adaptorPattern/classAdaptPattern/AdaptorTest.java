@@ -1,4 +1,4 @@
-package com.wakin.tech.designpattern.structure.adaptorPattern;
+package com.wakin.tech.designpattern.structure.adaptorPattern.classAdaptPattern;
 
 public class AdaptorTest {
     public static void main(String[] args){
